@@ -1,2 +1,3 @@
-# petitrookie.github.io
-Xuyang Lin — academic homepage
+# Xuyang Lin — academic homepage
+
+https://xuyanglin-math.github.io/
